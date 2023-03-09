@@ -1,3 +1,1 @@
-ls
-cd 0x01-git
-cat >>up_to_date
+git pull
